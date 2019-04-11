@@ -1,1 +1,1 @@
-STYLE_URLS = ['https://raw.githubusercontent.com/Zoruk/grip-style/master/style.css']
+STYLE_URLS = ['https://www.swissmadesecurity.net/zoruk/grip.css']
