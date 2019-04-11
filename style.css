@@ -7,3 +7,16 @@ code {
     word-wrap: break-word !important;       /* Internet Explorer 5.5+ */
     overflow: hidden !important;
 }
+
+.container {
+    width: 100%;
+}
+
+.boxed-group>h3 {
+    display: none;
+    font-size: 14px;
+    line-height: 17px;
+    padding: 0px;
+    height: 0px;
+}
+
